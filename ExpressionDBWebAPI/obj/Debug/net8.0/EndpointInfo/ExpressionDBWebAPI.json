@@ -246,6 +246,28 @@
         }
       }
     },
+    "/api/label/excel2": {
+      "post": {
+        "tags": [
+          "ExpressionDBWebAPI"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateLabelRequest2"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Log": {
       "post": {
         "tags": [
@@ -745,6 +767,24 @@
             "nullable": true
           },
           "課": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateLabelRequest2": {
+        "type": "object",
+        "properties": {
+          "devicE_ID": {
+            "type": "string",
+            "nullable": true
+          },
+          "useR_ID": {
+            "type": "string",
+            "nullable": true
+          },
+          "棚番": {
             "type": "string",
             "nullable": true
           }

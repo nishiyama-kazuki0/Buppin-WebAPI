@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj": {}
+    "C:\\Buppin-WebAPI\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\AspireServiceDefaults\\AspireServiceDefaults.csproj": {
+    "C:\\Buppin-WebAPI\\AspireServiceDefaults\\AspireServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\AspireServiceDefaults\\AspireServiceDefaults.csproj",
+        "projectUniqueName": "C:\\Buppin-WebAPI\\AspireServiceDefaults\\AspireServiceDefaults.csproj",
         "projectName": "AspireServiceDefaults",
-        "projectPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\AspireServiceDefaults\\AspireServiceDefaults.csproj",
+        "projectPath": "C:\\Buppin-WebAPI\\AspireServiceDefaults\\AspireServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\G2507\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\AspireServiceDefaults\\obj\\",
+        "outputPath": "C:\\Buppin-WebAPI\\AspireServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,14 +103,14 @@
         }
       }
     },
-    "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj": {
+    "C:\\Buppin-WebAPI\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj",
+        "projectUniqueName": "C:\\Buppin-WebAPI\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj",
         "projectName": "ExpressionDBWebAPI",
-        "projectPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj",
+        "projectPath": "C:\\Buppin-WebAPI\\ExpressionDBWebAPI\\ExpressionDBWebAPI.csproj",
         "packagesPath": "C:\\Users\\G2507\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\ExpressionDBWebAPI\\obj\\",
+        "outputPath": "C:\\Buppin-WebAPI\\ExpressionDBWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -132,11 +132,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\AspireServiceDefaults\\AspireServiceDefaults.csproj": {
-                "projectPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\AspireServiceDefaults\\AspireServiceDefaults.csproj"
+              "C:\\Buppin-WebAPI\\AspireServiceDefaults\\AspireServiceDefaults.csproj": {
+                "projectPath": "C:\\Buppin-WebAPI\\AspireServiceDefaults\\AspireServiceDefaults.csproj"
               },
-              "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\SharedModels\\SharedModels.csproj": {
-                "projectPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\SharedModels\\SharedModels.csproj"
+              "C:\\Buppin-WebAPI\\SharedModels\\SharedModels.csproj": {
+                "projectPath": "C:\\Buppin-WebAPI\\SharedModels\\SharedModels.csproj"
               }
             }
           }
@@ -325,14 +325,14 @@
         }
       }
     },
-    "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\SharedModels\\SharedModels.csproj": {
+    "C:\\Buppin-WebAPI\\SharedModels\\SharedModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\SharedModels\\SharedModels.csproj",
+        "projectUniqueName": "C:\\Buppin-WebAPI\\SharedModels\\SharedModels.csproj",
         "projectName": "SharedModels",
-        "projectPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\SharedModels\\SharedModels.csproj",
+        "projectPath": "C:\\Buppin-WebAPI\\SharedModels\\SharedModels.csproj",
         "packagesPath": "C:\\Users\\G2507\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G2507\\OneDrive - 株式会社立花エレテック\\ドキュメント\\Buppin-WebAPI-\\SharedModels\\obj\\",
+        "outputPath": "C:\\Buppin-WebAPI\\SharedModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

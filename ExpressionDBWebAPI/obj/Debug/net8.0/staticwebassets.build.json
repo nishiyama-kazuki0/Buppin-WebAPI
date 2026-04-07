@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z5aveg9AA2mmSPUC3hHLfqcLAfyXf6VewOPYOmDsa+o=",
+  "Hash": "Z4UJv/7Ogj3WZqu8EZ+cQDHi0avtPMGsXYUTuWUYkf4=",
   "Source": "ExpressionDBWebAPI",
   "BasePath": "_content/ExpressionDBWebAPI",
   "Mode": "Default",
@@ -9,10 +9,10 @@
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBWebAPI\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "Identity": "C:\\Buppin-WebAPI\\ExpressionDBWebAPI\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "SourceId": "ExpressionDBWebAPI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBWebAPI\\obj\\Debug\\net8.0\\jsmodules\\",
+      "ContentRoot": "C:\\Buppin-WebAPI\\ExpressionDBWebAPI\\obj\\Debug\\net8.0\\jsmodules\\",
       "BasePath": "_content/ExpressionDBWebAPI",
       "RelativePath": "ExpressionDBWebAPI.modules.json",
       "AssetKind": "Build",
@@ -265,7 +265,7 @@
     },
     {
       "Route": "ExpressionDBWebAPI.modules.json",
-      "AssetFile": "C:\\SUNTORY_OSAKA_MaterialHandlingManagementApp\\ExpressionDBWebAPI\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "AssetFile": "C:\\Buppin-WebAPI\\ExpressionDBWebAPI\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -286,7 +286,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Mar 2026 07:43:29 GMT"
+          "Value": "Tue, 31 Mar 2026 07:39:16 GMT"
         },
         {
           "Name": "Cache-Control",
