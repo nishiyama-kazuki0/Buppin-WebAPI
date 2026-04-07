@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpressionDBWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91d093911822c753ba81a54c823d6a59a21e0976")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5472881ef5e84bd080a83e6b83f3dcee942fe427")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressionDBWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressionDBWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
